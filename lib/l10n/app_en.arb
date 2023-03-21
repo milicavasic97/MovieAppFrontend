@@ -1,0 +1,152 @@
+{
+    "language": "English",
+    "@language": {
+        "description": "The current language."
+    },
+    "password": "Password",
+    "@password": {
+        "description": "Password field text."
+    },
+    "login": "Log in",
+    "@login": {
+        "description": "Login button text."
+    },
+    "first_name": "Name",
+    "@first_name": {
+        "description": "Name text field text."
+    },
+    "last_name": "Last name",
+    "@last_name": {
+        "description":"Last name text field text."
+    },
+    "username": "Username",
+    "@username": {
+        "description": "Username text field text."
+    },
+    "logout": "Log out",
+    "@logout": {
+        "description": "Log out button text."
+    },
+    "movies": "Movies",
+    "@movies": {
+        "description": "Movies tab title text."
+    },
+    "series": "Series",
+    "@series": {
+        "description": "Series tab title text."
+    },
+    "recently_released": "Recently released",
+    "@recently_released":{
+        "description" :"Recently released title text."
+    },
+    "best_rate": "Best rated",
+    "@best_rate":{
+        "description" :"Best title text."
+    },
+    "search": "Search",
+    "@search":{
+        "description" :"Search title text."
+    },
+    "all": "All",
+    "@all":{
+        "description" :"All title text."
+    },
+    "no_fav_data": "No favourite content.",
+    "@no_fav_data":{
+        "description" :"No favourite content text."
+    },
+    "duration": "Duration ",
+    "@duration": {
+        "description": "Content duration text."
+    },
+    "air_date": "Air date {date}",
+    "@air_date": {
+        "description": "Air date text.",
+        "placeholders": {
+            "date": {
+                "type": "String"
+            }
+        }
+    },
+    "genres": "Genres: ",
+    "@genres":{
+        "description" :"Genres text."
+    },
+    "seasons": "Seasons list: ",
+    "@seasons":{
+        "description" :"Seasons list text."
+    },
+    "comments": "Comments",
+    "@comments":{
+        "description" :"Comments text."
+    },
+    "comment": "Comment",
+    "@comment_hint":{
+        "description" :"Comment hint text."
+    },
+    "send_comment": "Send comment",
+    "@send_comment":{
+        "description" :"Send comment text."
+    },
+    "enter_comment": "Enter comment...",
+    "@enter_comment":{
+        "description" :"Enter comment validation error message."
+    },
+    "signin": "Sign in with credentials",
+    "@signin": {
+        "description": "Sign in button text."
+    },
+    "welcome_title": "All movies at one place!",
+    "@welcome_title":  {
+        "description": "Welcome title."
+    },
+    "empty_field_validation": "Field cannot be empty.",
+    "@empty_field_validation": {
+        "description": "Empty field  validation text."
+    },
+    "continue_text": "Continue",
+    "@continue_text": {
+        "description": "Continue text."
+    },
+    "home": "Home",
+    "@home": {
+        "description": "Home title text."
+    },
+    "favourites": "Favourites",
+    "@favourites": {
+        "description": "Favourites title text."
+    },
+    "settings": "Settings",
+    "@settings": {
+        "description": "Settings title text."
+    },
+    "details": "Details",
+    "@details": {
+        "description": "Details title text."
+    },
+    "detailed": "Detailed",
+    "@detailed": {
+        "description": "Detailed title text."
+    },
+    "no_content": "No content",
+    "@no_content": {
+        "description": "No content text."
+    },
+    "search_results": "Searching results",
+    "@search_results": {
+        "description": "Search results text"
+    },
+    "rating": "Rating",
+    "@rating": {
+        "description": "Rating text"
+    },
+    "search_hint": "Search for something...",
+    "@search_hint": {
+        "description": "Search hint text"
+    },
+    "error": "Error! Try again.",
+    "@error": {
+        "description": "Try again text"
+    }
+    
+}
